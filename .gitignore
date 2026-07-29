@@ -2,3 +2,4 @@
 .gemini/
 .env*
 node_modules/
+catboost_info/
